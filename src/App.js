@@ -1,9 +1,50 @@
-import React, { useState, useEffect, useRef, useCallback } from "react";
+import React, {
+  useState,
+  useEffect,
+  useRef,
+  useCallback,
+  useLayoutEffect
+} from "react";
 import "./styles.css";
 import data from "./data.json";
 import { useScroll } from "react-use-gesture";
 import { animated, useSpring } from "react-spring";
 import { Transition } from "react-transition-group";
+
+function useWindowSize() {
+  const [size, setSize] = useState([0, 0]);
+  let rtime;
+  let timeout = false;
+  let delta = 500;
+  let timeoutInstance = null;
+
+  function updateSize() {
+    setSize([window.innerWidth, window.innerHeight]);
+  }
+
+  const resizeend = () => {
+    if (new Date() - rtime < delta) {
+      setTimeout(resizeend, delta);
+    } else {
+      timeout = false;
+      updateSize();
+    }
+  };
+  const onResizeEnd = () => {
+    rtime = new Date();
+    if (timeout === false) {
+      timeout = true;
+      if (timeoutInstance) clearTimeout(timeoutInstance);
+      timeoutInstance = setTimeout(resizeend, delta);
+    }
+  };
+  useLayoutEffect(() => {
+    window.addEventListener("resize", onResizeEnd);
+    updateSize();
+    return () => window.removeEventListener("resize", updateSize);
+  }, []);
+  return size;
+}
 
 const transform = (pos, transitionDelay) => {
   return {
@@ -26,6 +67,7 @@ const List = data => {
   const [obsOptions, setObsOptions] = useState(null);
   const leftObserver = useRef(null);
   const rightObserver = useRef(null);
+  const [width, height] = useWindowSize();
 
   const [style, set] = useSpring(() => ({
     transform: "perspective(500px) rotateY(0deg)",
@@ -40,8 +82,6 @@ const List = data => {
   }, []);
 
   useEffect(() => {
-    console.log(initialRenderCount);
-    console.log("pos " + slidePos);
     const channels = data.data.slice(0);
     channels.sort((a, b) => {
       return parseInt(a.number) - parseInt(b.number);
@@ -53,7 +93,7 @@ const List = data => {
     channels.unshift(...prependChannels);
     channels.push(...appendChannels);
     setRendered(channels);
-  }, [initialRenderCount]);
+  }, [initialRenderCount, width]);
 
   const firstElementRef = useCallback(node => {
     if (node) {
@@ -87,31 +127,26 @@ const List = data => {
   }, [endReached, slidePos]);
 
   useEffect(() => {
-    console.log(rendered);
     if (rendered.length && containerRef.current) {
-      console.log(containerRef.current);
       const containerWidth = containerRef.current.offsetWidth;
       const element = containerRef.current.querySelector("li:first-child");
       const style = element.currentStyle || window.getComputedStyle(element);
       const elementWidth =
         element.offsetWidth +
         (parseFloat(style.marginLeft) + parseFloat(style.marginRight));
-      console.log(containerWidth + " " + elementWidth);
-      console.log(Math.floor(containerWidth / elementWidth));
       const renderViewCount = Math.floor(containerWidth / elementWidth);
+      console.log(`[render] viewCount ${renderViewCount}`);
       setSlideStyles(transform(-(elementWidth * renderViewCount), 0));
       setSlidePos(-(elementWidth * renderViewCount));
       setInitialRenderCount(renderViewCount);
       setContainerWidth(containerWidth);
       setScrollWidth(elementWidth * channelsCount);
       setElementWidth(elementWidth);
-      console.log("render count set");
     }
-  }, [rendered, channelsCount]);
+  }, [rendered, channelsCount, width, height]);
 
   const onClicked = (e, item) => {
     e.persist();
-    console.log(item);
     slideToCenter(e);
   };
 
@@ -128,24 +163,26 @@ const List = data => {
   };
 
   const slideToCenter = e => {
-    console.log(e.target);
     const element = e.target;
     const elementLeft = e.target.offsetLeft + slidePos;
     debugger;
     const elementCenter = elementLeft + Math.floor(element.offsetWidth / 2);
     const wrapperCenter = Math.floor(containerWidth / 2);
-    console.log(elementLeft + " " + elementCenter + " " + wrapperCenter);
     if (wrapperCenter > elementCenter) {
       setSlidePos(prevPos => {
         return prevPos + (wrapperCenter - elementCenter);
       });
-      setSlideStyles(transform(slidePos + (wrapperCenter - elementCenter), 0));
+      setSlideStyles(
+        transform(slidePos + (wrapperCenter - elementCenter), 0.25)
+      );
     } else if (elementCenter > wrapperCenter) {
       setSlidePos(prevPos => {
         debugger;
         return prevPos - (elementCenter - wrapperCenter);
       });
-      setSlideStyles(transform(slidePos - (elementCenter - wrapperCenter), 0));
+      setSlideStyles(
+        transform(slidePos - (elementCenter - wrapperCenter), 0.25)
+      );
     }
   };
 
@@ -155,7 +192,6 @@ const List = data => {
     // setCurr(0);
   };
   const onLeftEndView = () => {
-    console.log("set");
     setSlideStyles(transform(-scrollWidth, 0));
     setSlidePos(-scrollWidth);
   };

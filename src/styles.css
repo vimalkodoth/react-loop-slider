@@ -6,7 +6,7 @@
 .wrapper {
   display: flex;
   overflow: hidden;
-  max-width: 770px;
+  max-width: 880px;
   margin: 0;
   padding: 0;
 }
