@@ -1,0 +1,4072 @@
+[
+  {
+    "isFav": true,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288318",
+    "id": "35253288318",
+    "titleEn": "OSN Movies First HD",
+    "number": "1",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/K3k45SOLqlsb",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/tw7_oa20y9JD",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/ps979x2gOexp",
+    "isLiveStream": true,
+    "rewindBuffer": 24,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "4.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/34953768146",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Movies_First_HD_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Movies_First_HD_264x264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Movies_First_HD_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Movies_First_HD_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/OSN_Movies_First_HD_col_264x264.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/OSN_Movies_First_HD_col_264x264.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Movies"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288317",
+    "id": "35253288317",
+    "titleEn": "OSN Movies Action HD",
+    "number": "2",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/KTAnf6on5loH",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/Hdr2LO2jHOZK",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/7eky3XTR__vb",
+    "isLiveStream": true,
+    "rewindBuffer": 24,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "4.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/34953256101",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Action_HD_176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Action_HD_264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Action_HD_60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Action_HD_88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/OSN-Movies-HD-Action_264.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/OSN-Movies-HD-Action_264.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Movies"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288308",
+    "id": "35253288308",
+    "titleEn": "OSN Movies HD",
+    "number": "3",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/UBsEf0FnS0Oe",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/ZVoxIwTTEz_p",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/A_q3UCcJ680a",
+    "isLiveStream": true,
+    "rewindBuffer": 24,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "4.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/34953256100",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Movies_HD_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Movies_HD_264x264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Movies_HD_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Movies_HD_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/OSN_Movies_HD_col_264x264.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/OSN_Movies_HD_col_264x264.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Movies"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288297",
+    "id": "35253288297",
+    "titleEn": "OSN Movies Thriller HD",
+    "number": "4",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/KU20zK8lX4oI",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/36pE389_Y4Pr",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/qiA8a4UGeOFl",
+    "isLiveStream": true,
+    "rewindBuffer": 24,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "3.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/34953768112",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Movies_Thriller_HD_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Movies_Thriller_HD_264x264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Movies_Thriller_HD_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Movies_Thriller_HD_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/OSN_Movies_Thriller_HD_col_264x264.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/OSN_Movies_Thriller_HD_col_264x264.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Movies"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288320",
+    "id": "35253288320",
+    "titleEn": "OSN Movies Comedy HD",
+    "number": "5",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/86DE2MEUwlmP",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/qMA_gbntZxTj",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/ddz4e5Ys7Rdf",
+    "isLiveStream": true,
+    "rewindBuffer": 24,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "4.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/34953768150",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Movies_Comedy_HD_176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Movies_Comedy_HD_264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Movies_Comedy_HD_60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Movies_Comedy_HD_88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/OSN-Movies-HD-Comedy_264.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/OSN-Movies-HD-Comedy_264.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Movies"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288309",
+    "id": "35253288309",
+    "titleEn": "OSN Movies Festival",
+    "number": "6",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/D_ZcexynFqjQ",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/tOpYZqRsbwNz",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/VVwNAa_Ha7sv",
+    "isLiveStream": true,
+    "rewindBuffer": 24,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "4.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/34953768132",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Movies_Festival_HD_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Movies_Festival_HD_264x264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Movies_Festival_HD_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Movies_Festival_HD_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/OSN_Movies_Festival_HD_264x264_coloured.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/OSN_Movies_Festival_HD_264x264_coloured.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Movies"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288303",
+    "id": "35253288303",
+    "titleEn": "OSN Movies Family HD",
+    "number": "7",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/s3_oIIV6WmqR",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/R1r3JMV2WjsF",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/dGRW0AhInEeE",
+    "isLiveStream": true,
+    "rewindBuffer": 24,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "3.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/34953768124",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Movies_Family_HD_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Movies_Family_HD_264x264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Movies_Family_HD_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Movies_Family_HD_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/OSN_Movies_Family_HD_264x264_coloured.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/OSN_Movies_Family_HD_264x264_coloured.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Movies"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288292",
+    "id": "35253288292",
+    "titleEn": "Star Movies HD",
+    "number": "8",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/OmyF5GHocecG",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/jevg7dd8_9Mr",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/gKaVAJeGoXlx",
+    "isLiveStream": true,
+    "rewindBuffer": 24,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "3.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/34953768101",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Star_Movies_HD_176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Star_Movies_HD_264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Star_Movies_HD_60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Star_Movies_HD_88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Star_MoviesHD_264.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Star_MoviesHD_264.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Movies"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288304",
+    "id": "35253288304",
+    "titleEn": "OSN يا هلا! سينما HD",
+    "number": "9",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/yubjq7vcZYgQ",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/pRNdNj91MR5L",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/Wb0V7shrPuK3",
+    "isLiveStream": true,
+    "rewindBuffer": 24,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "4.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/34953768126",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Ya_Hala_Cinema_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Ya_Hala_Cinema_264x264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Ya_Hala_Cinema_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Ya_Hala_Cinema_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/OSN_Ya_Hala_Cinema_264x264_coloured.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/OSN_Ya_Hala_Cinema_264x264_coloured.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Movies"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/46119976262",
+    "id": "46119976262",
+    "titleEn": "ART Cinema",
+    "number": "10",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/4_he_Xc1X0wE",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/yMPITpxii_8B",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/VU_VhEReNC1c",
+    "isLiveStream": true,
+    "rewindBuffer": 24,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "1.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/46121512234",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/ART_Cinema_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/ART_Cinema_264x264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/ART_Cinema_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/ART_Cinema_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/ART_Cinema_colored_264x264.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/ART_Cinema_colored_264x264.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Movies"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/46119976263",
+    "id": "46119976263",
+    "titleEn": "ART Aflam 1",
+    "number": "11",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/x850V0sqvtWR",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/eNXf77a8KsJx",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/JR3VR7px32ai",
+    "isLiveStream": true,
+    "rewindBuffer": 24,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "1.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/46121512235",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Art_Aflam_1_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Art_Aflam_1_264x264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Art_Aflam_1_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Art_Aflam_1_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Art_Aflam_1_colored_264x264.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Art_Aflam_1_colored_264x264.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Movies"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/46119976264",
+    "id": "46119976264",
+    "titleEn": "ART Aflam 2",
+    "number": "12",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/DfWTpeWs3Nsx",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/NvQJDKjLmYUD",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/VW0z9iysodKq",
+    "isLiveStream": true,
+    "rewindBuffer": 24,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "1.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/46121512236",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Art_Aflam_2_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Art_Aflam_2_264x264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Art_Aflam_2_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Art_Aflam_2_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Art_Aflam_2_colored_264x264.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Art_Aflam_2_colored_264x264.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Movies"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288249",
+    "id": "35253288249",
+    "titleEn": "Rotana Cinema",
+    "number": "13",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/qtKG8cVBaBY4",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/7wTls3z8myBb",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/MJEeku_Wy9BK",
+    "isLiveStream": true,
+    "rewindBuffer": 168,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "3.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/34953768032",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Rotana_Cinema_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Rotana_Cinema_264x264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Rotana_Cinema_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Rotana_Cinema_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Rotana_Cinema_264x264_coloured.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Rotana_Cinema_264x264_coloured.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Movies"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288250",
+    "id": "35253288250",
+    "titleEn": "Rotana Aflam",
+    "number": "14",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/Wo0NqSvrNvJg",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/DWxJ69fCD_14",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/PS9yWZ3cVKkC",
+    "isLiveStream": true,
+    "rewindBuffer": 168,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "3.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/34953768034",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Rotana_Aflam_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Rotana_Aflam_264x264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Rotana_Aflam_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Rotana_Aflam_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Rotana_Aflam_264x264_coloured.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Rotana_Aflam_264x264_coloured.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Movies"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288252",
+    "id": "35253288252",
+    "titleEn": "MBC 2 HD",
+    "number": "15",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/V5XdjNLeWjmD",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/ArVKC_ImtZOg",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/sKz9BwJHe_7g",
+    "isLiveStream": true,
+    "rewindBuffer": 4,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "4.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/34953768036",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/MBC2_HD_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/MBC2_HD_264X264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/MBC2_HD_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/MBC2_HD_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/MBC2_HD_264x264_coloured.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/MBC2_HD_264x264_coloured.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Movies"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288256",
+    "id": "35253288256",
+    "titleEn": "MBC Max HD",
+    "number": "16",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/R_XbuJNBg5FE",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/m3wwYWqwERBY",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/AJGaI8cifctj",
+    "isLiveStream": true,
+    "rewindBuffer": 4,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "4.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/34953768044",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/MBC_Max_HD_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/MBC_Max_HD_264x264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/MBC_Max_HD_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/MBC_Max_HD_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/MBC_Max_HD_264x264_coloured.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/MBC_Max_HD_264x264_coloured.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Movies"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288257",
+    "id": "35253288257",
+    "titleEn": "MBC Bollywood",
+    "number": "17",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/hGJntOZbVkYT",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/egBeSj6acWdr",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/HUQTLFTO8lq_",
+    "isLiveStream": true,
+    "rewindBuffer": 168,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "4.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/34953768046",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/MBC_Bolywood_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/MBC_Bolywood_264x264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/MBC_Bolywood_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/MBC_Bolywood_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/MBC_Bolywood_264x264_coloured.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/MBC_Bolywood_264x264_coloured.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Movies"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288294",
+    "id": "35253288294",
+    "titleEn": "OSN Series First HD",
+    "number": "18",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/rgGkk3INS8x8",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/M3Gpu8keEOOA",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/rs_FfWDttl18",
+    "isLiveStream": true,
+    "rewindBuffer": 24,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "3.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/34953768105",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Series_First_HD_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Series_First_HD_264x264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Series_First_HD_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Series_First_HD_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/OSN_Series_First_HD_col_264x264.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/OSN_Series_First_HD_col_264x264.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Entertainment"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288302",
+    "id": "35253288302",
+    "titleEn": "OSN First HBO HD",
+    "number": "19",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/GwSWQaFMLUxu",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/trwpCqSrF6z9",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/maJouG1TXgAJ",
+    "isLiveStream": true,
+    "rewindBuffer": 24,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "3.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/34953768122",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_First_HBO_HD_176X176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_First_HBO_HD_264x264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_First_HBO_HD_80X60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_First_HBO_HD_88X88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/OSN_First_HBO_HD_264x264_coloured.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/OSN_First_HBO_HD_264x264_coloured.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Entertainment"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288289",
+    "id": "35253288289",
+    "titleEn": "OSN Series Comedy HD",
+    "number": "20",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/0CbBVNFAB9le",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/h5xuRN8JqKc_",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/zO2wD3LuwdZ7",
+    "isLiveStream": true,
+    "rewindBuffer": 24,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "1.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/34953767990",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Series_Comedy_HD_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Series_Comedy_HD_264x264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Series_Comedy_HD_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Series_Comedy_HD_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/OSN_Series_Comedy_HD_col_264x264.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/OSN_Series_Comedy_HD_col_264x264.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Entertainment"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288293",
+    "id": "35253288293",
+    "titleEn": "Star World HD",
+    "number": "21",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/_Q8SoBfMieoo",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/HnpJW2QpvflX",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/vQt214_oz7JE",
+    "isLiveStream": true,
+    "rewindBuffer": 24,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "2.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/34953768103",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Star_World_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Star_World_264x264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Star_World_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Star_World_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Star_World_264x264_coloured.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Star_World_264x264_coloured.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Entertainment"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/40868392067",
+    "id": "40868392067",
+    "titleEn": "MBC Variety",
+    "number": "22",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/HGvPBtTSidqR",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/1qL8HISH4lv0",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/j69JRg7hVjvb",
+    "isLiveStream": true,
+    "rewindBuffer": 4,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "4.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/40868904080",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/MBC_Variety_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/MBC_Variety_264x264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/MBC_Variety_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/MBC_Variety_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/MBC_Variety_264x264_coloured.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/MBC_Variety_264x264_coloured.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Entertainment"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288255",
+    "id": "35253288255",
+    "titleEn": "MBC Action HD",
+    "number": "23",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/rASd3UyBpfrl",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/U4XgQEzN6UuN",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/US0r9VGQekA4",
+    "isLiveStream": true,
+    "rewindBuffer": 4,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "4.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/34953768042",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/MBC_Action_HD_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/MBC_Action_HD_264x264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/MBC_Action_HD_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/MBC_Action_HD_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/MBC_Action_HD_264x264_coloured.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/MBC_Action_HD_264x264_coloured.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Entertainment"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288267",
+    "id": "35253288267",
+    "titleEn": "BBC First HD",
+    "number": "24",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/rDMDWPV7SuaJ",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/81pQe5i67YRZ",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/fPV482UdH01L",
+    "isLiveStream": true,
+    "rewindBuffer": 24,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "2.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/34953768062",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/BBC_First_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/BBC_First_264x264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/BBC_First_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/BBC_First_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/BBC_First_264x264_coloured.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/BBC_First_264x264_coloured.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Entertainment"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288280",
+    "id": "35253288280",
+    "titleEn": "ITV Choice HD",
+    "number": "25",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/fO8Q_B_n6TZn",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/xrE_oUZNdaKL",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/4iJLUYuHFH7O",
+    "isLiveStream": true,
+    "rewindBuffer": 24,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "2.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/34953768085",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Itv_Choice_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Itv_Choice_264x264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Itv_Choice_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Itv_Choice_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Itv_Choice_264x264_coloured.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Itv_Choice_264x264_coloured.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Entertainment"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288254",
+    "id": "35253288254",
+    "titleEn": "MBC 4 HD",
+    "number": "26",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/_mGx4rRUweaW",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/_C8t2tpVOgWc",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/oUf5TN4NE545",
+    "isLiveStream": true,
+    "rewindBuffer": 4,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "4.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/34953768040",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/MBC4_HD_176X176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/MBC4_HD_264x264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/MBC4_HD_80X60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/MBC4_HD_88X88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/MBC4_HD_264x264_coloured.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/MBC4_HD_264x264_coloured.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Entertainment"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288277",
+    "id": "35253288277",
+    "titleEn": "OSN يا هلا! الأولى HD",
+    "number": "27",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/_PQ_q9cMl52h",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/dYNzAieNl0eT",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/oerUclE7JpR_",
+    "isLiveStream": true,
+    "rewindBuffer": 24,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "2.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/34953767987",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Ya_Hala_Al_Oula_HD_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Ya_Hala_Al_Oula_HD_264x264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Ya_Hala_Al_Oula_HD_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Ya_Hala_Al_Oula_HD_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/OSN_Ya_Hala_Al_Oula_HD_col_264x264.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/OSN_Ya_Hala_Al_Oula_HD_col_264x264.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Entertainment"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288279",
+    "id": "35253288279",
+    "titleEn": "OSN ياهلا! HD",
+    "number": "28",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/2vkOI0BWLYnk",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/6Uw3CcedZMNS",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/7GXHt9PhX_Y4",
+    "isLiveStream": true,
+    "rewindBuffer": 24,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "2.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/34953768083",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Ya_Hala_HD_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Ya_Hala_HD_264x264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Ya_Hala_HD_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Ya_Hala_HD_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/OSN_Ya_Hala_HD_col_264x264.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/OSN_Ya_Hala_HD_col_264x264.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Entertainment"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/46122024128",
+    "id": "46122024128",
+    "titleEn": "ART Hekayat",
+    "number": "29",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/PipMibtfbAXE",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/bnCkI40YBzlc",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/eCtGfFK0lxVo",
+    "isLiveStream": true,
+    "rewindBuffer": 24,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "1.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/46121512319",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Art_Hakeyat_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Art_Hakeyat_264x264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Art_Hakeyat_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Art_Hakeyat_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Art_Hakeyat_colored_264x264.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Art_Hakeyat_colored_264x264.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Entertainment"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/46122024134",
+    "id": "46122024134",
+    "titleEn": "ART Hekayat 2",
+    "number": "30",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/MDydxguazufz",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/a1aEnaVAtn2x",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/JNpxJxGnAdCm",
+    "isLiveStream": true,
+    "rewindBuffer": 24,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "1.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/46121512326",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Art_Hakeyat2_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Art_Hakeyat2_264x264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Art_Hakeyat2_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Art_Hakeyat2_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Art_Hakeyat2_Colored_264x264.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Art_Hakeyat2_Colored_264x264.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Entertainment"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288262",
+    "id": "35253288262",
+    "titleEn": "Kuwait 1",
+    "number": "31",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/eaSxxuECqY4S",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/HSDEL6r7S__l",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/1dYecOJM0LH5",
+    "isLiveStream": true,
+    "rewindBuffer": 168,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "3.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/34953768054",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Kuwait_1_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Kuwait_1_264x264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Kuwait_1_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Kuwait_1_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Kuwait_1_264x264_coloured.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Kuwait_1_264x264_coloured.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Entertainment"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288251",
+    "id": "35253288251",
+    "titleEn": "MBC HD",
+    "number": "32",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/7IaE4LqNMKJK",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/wxqJNJNOHlhF",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/Ff_Qyn8cL_B6",
+    "isLiveStream": true,
+    "rewindBuffer": 168,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "5.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/34953767984",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/MBC_176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/MBC_264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/MBC_60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/MBC_88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/MBC_264.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/MBC_264.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Entertainment"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288263",
+    "id": "35253288263",
+    "titleEn": "Al Rai",
+    "number": "33",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/5rHAO2uQd86U",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/08kAAC71kNw5",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/2pY3g1qxRLLA",
+    "isLiveStream": true,
+    "rewindBuffer": 168,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "4.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/34953768056",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Al_Rai_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Al_Rai_264x264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Al_Rai_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Al_Rai_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Al_Rai_264x264_coloured.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Al_Rai_264x264_coloured.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Entertainment"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288248",
+    "id": "35253288248",
+    "titleEn": "Rotana Khalejiya",
+    "number": "34",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/uH7rPMIx8EQB",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/jVKISpSWWVbN",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/FTLw9_D8QHDJ",
+    "isLiveStream": true,
+    "rewindBuffer": 168,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "3.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/34953768030",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Rotana_Khalijia_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Rotana_Khalijia_264x264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Rotana_Khalijia_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Rotana_Khalijia_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Rotana_Khalijia_264x264_coloured.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Rotana_Khalijia_264x264_coloured.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Entertainment"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288258",
+    "id": "35253288258",
+    "titleEn": "MBC Drama HD",
+    "number": "35",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/yOqz0dMxT3iW",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/Y_DxSsM6KISj",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/n_2yMWk9A5oZ",
+    "isLiveStream": true,
+    "rewindBuffer": 168,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "3.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/34953768048",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/MBC_Drama_HD_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/MBC_Drama_HD_264x264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/MBC_Drama_HD_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/MBC_Drama_HD_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/MBC_Drama_HD_264x264_coloured.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/MBC_Drama_HD_264x264_coloured.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Entertainment"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288321",
+    "id": "35253288321",
+    "titleEn": "Discovery HD",
+    "number": "36",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/rEnhVwoSYUQQ",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/hlhCsKYohtpj",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/fOhKMf7L94vc",
+    "isLiveStream": true,
+    "rewindBuffer": 24,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "1.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/34953768003",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Discovery_HD_176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Discovery_HD_264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Discovery_HD_60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Discovery_HD_88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Discovery-HD_264.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Discovery-HD_264.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Documentary"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288312",
+    "id": "35253288312",
+    "titleEn": "Nat. Geographic",
+    "number": "37",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/XX1mtXET1mz_",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/AYP_BINhXYUJ",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/N3Km59vNA7VC",
+    "isLiveStream": true,
+    "rewindBuffer": 24,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "2.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/34953768138",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Nat_Geo_HD_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Nat_Geo_HD_264x264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Nat_Geo_HD_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Nat_Geo_HD_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Nat_Geo_HD_264x264_coloured.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Nat_Geo_HD_264x264_coloured.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Documentary"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288311",
+    "id": "35253288311",
+    "titleEn": "Nat. Geo. Wild HD",
+    "number": "38",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/0ZBOO0aB75Vx",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/ZUkH7csAdhL4",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/yi5uSWuk1qTk",
+    "isLiveStream": true,
+    "rewindBuffer": 24,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "2.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/34953768136",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Nat_Geo_Wild_HD_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Nat_Geo_Wild_HD_264x264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Nat_Geo_Wild_HD_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Nat_Geo_Wild_HD_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Nat_Geo_Wild_HD_264x264_coloured.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Nat_Geo_Wild_HD_264x264_coloured.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Documentary"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288281",
+    "id": "35253288281",
+    "titleEn": "Animal Planet HD",
+    "number": "39",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/JWraDGmCDzEG",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/V2PSHzNjrSnU",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/jYwoViBt1HP0",
+    "isLiveStream": true,
+    "rewindBuffer": 24,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "1.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/34953767996",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Animal_Planet_176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Animal_Planet_264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Animal_Planet_60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Animal_Planet_88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Animal-Planet-HD_264.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Animal-Planet-HD_264.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Documentary"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288299",
+    "id": "35253288299",
+    "titleEn": "Nat. Geo. People HD",
+    "number": "40",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/Q67OQe1g1o4s",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/f3AIEHML00Ly",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/NfThsRBdhs8S",
+    "isLiveStream": true,
+    "rewindBuffer": 24,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "8.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/34953768116",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Nat_Geo_People_HD_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Nat_Geo_People_HD_264x264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Nat_Geo_People_HD_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Nat_Geo_People_HD_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Nat_Geo_People_HD_264x264_coloured.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Nat_Geo_People_HD_264x264_coloured.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Documentary"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/36220968044",
+    "id": "36220968044",
+    "titleEn": "Discovery Family",
+    "number": "41",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/wWlVSJNJ2u9a",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/Xr9n5Br1tlgI",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/EwK3drRjvFOO",
+    "isLiveStream": true,
+    "rewindBuffer": 24,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "4.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/36220968043",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Discovery_Family_HD_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Discovery_Family_HD_264x264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Discovery_Family_HD_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Discovery_Family_HD_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Discovery_Family_HD_264x264_coloured.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Discovery_Family_HD_264x264_coloured.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Documentary"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288282",
+    "id": "35253288282",
+    "titleEn": "History Channel",
+    "number": "42",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/Cjf4cPhEtJek",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/mSU4Qh6_H5uY",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/Wk4vgKix8Pd7",
+    "isLiveStream": true,
+    "rewindBuffer": 24,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "2.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/34953768087",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/History_HD_176X176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/History_HD_264X264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/History_HD_80X60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/History_HD_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/History_HD_264x264_coloured.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/History_HD_264x264_coloured.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Documentary"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288266",
+    "id": "35253288266",
+    "titleEn": "H2 HD",
+    "number": "43",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/h1NFB3hQYvYY",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/qhF1cjrw7b9i",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/1Obx_cn9Hh6V",
+    "isLiveStream": true,
+    "rewindBuffer": 24,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "2.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/34953768060",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/H2_HD_176X176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/H2_HD_264X264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/H2_HD_80X60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/H2_HD_88X88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/H2_HD_264x264_coloured.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/H2_HD_264x264_coloured.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Documentary"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288300",
+    "id": "35253288300",
+    "titleEn": "Discovery Science",
+    "number": "44",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/vV4x9wo48OIX",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/jG04yVxf0MpL",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/QAVR_cvpdHqw",
+    "isLiveStream": true,
+    "rewindBuffer": 24,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "1.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/34953768118",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Discovery_Science_176X176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Discovery_Science_264x264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Discovery_Science_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Discovery_Science_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Discovery_Science_264x264_coloured.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Discovery_Science_264x264_coloured.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Documentary"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/57995816343",
+    "id": "57995816343",
+    "titleEn": "Intermediate Grade One",
+    "number": "45",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/tV_tRcJJmUdg",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/EsGwq7KhWDaE",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/2daK9xWsVs57",
+    "isLiveStream": true,
+    "rewindBuffer": 24,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "4.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/57995304160",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Intermediate_Grade_One_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Intermediate_Grade_One_264x264_white.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Intermediate_Grade_One_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Intermediate_Grade_One_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Intermediate_Grade_One_264x264_color.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Intermediate_Grade_One_264x264_color.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Documentary"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/57995816344",
+    "id": "57995816344",
+    "titleEn": "Secondary Grade Three",
+    "number": "46",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/rlYtWIIdMb7V",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/cMMRVDf8T_6t",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/CWwyi8AvyfNx",
+    "isLiveStream": true,
+    "rewindBuffer": 24,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "4.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/57995304161",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Secondary_Grade_Three_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Secondary_Grade_Three_264x264_white.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Secondary_Grade_Three_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Secondary_Grade_Three_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Secondary_Grade_Three_264x264_color.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Secondary_Grade_Three_264x264_color.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Documentary"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288323",
+    "id": "35253288323",
+    "titleEn": "Sky News HD",
+    "number": "47",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/ru8_MM7ddY4Z",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/nMntCayz2g0g",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/DowLM_g__H2Y",
+    "isLiveStream": true,
+    "rewindBuffer": 24,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "1.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/34953768152",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Sky_News_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Sky_News_264x264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Sky_News_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Sky_News_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Sky_News_264x264_coloured.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Sky_News_264x264_coloured.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["News"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288307",
+    "id": "35253288307",
+    "titleEn": "OSN News",
+    "number": "48",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/Tklp_iTWmprE",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/3V2xCECGyacD",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/Pun0Cb78s6OY",
+    "isLiveStream": true,
+    "rewindBuffer": 24,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "4.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/34953768006",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_News_176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_News_264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_News_60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_News_88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/OSN_News_264.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/OSN_News_264.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["News"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288286",
+    "id": "35253288286",
+    "titleEn": "Fox News",
+    "number": "49",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/626Ppy1tNnBb",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/25bME1a_29_K",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/J66bCZ_4c__P",
+    "isLiveStream": true,
+    "rewindBuffer": 24,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "4.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/34953768093",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Fox_News_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Fox_News_264x264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Fox_News_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Fox_News_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Fox_News_264x264_coloured.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Fox_News_264x264_coloured.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["News"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288275",
+    "id": "35253288275",
+    "titleEn": "Bloomberg",
+    "number": "50",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/Cj546HoauNe_",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/LZIh6cnZbFMz",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/b2ZFGT8R9i7q",
+    "isLiveStream": true,
+    "rewindBuffer": 24,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "2.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/34953768076",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Bloomberg_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Bloomberg_264x264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Bloomberg_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Bloomberg_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Bloomberg_264x264_coloured.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Bloomberg_264x264_coloured.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["News"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288276",
+    "id": "35253288276",
+    "titleEn": "CNBC Europe",
+    "number": "51",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/jEAABGUeUhTW",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/VbAY8VBh020a",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/I_lYbmNOL9kW",
+    "isLiveStream": true,
+    "rewindBuffer": 24,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "3.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/35253800145",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/CNBC_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/CNBC_264X264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/CNBC_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/CNBC_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/CNBC_264x264_coloured.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/CNBC_264x264_coloured.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["News"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288259",
+    "id": "35253288259",
+    "titleEn": "Al Arabiya HD",
+    "number": "52",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/LpymjfSVLTxJ",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/XRVpXBVhvtyX",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/dBQwSaMsUi4j",
+    "isLiveStream": true,
+    "rewindBuffer": 24,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "2.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/34953768012",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Alarabiya_News_176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Alarabiya_News_264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Alarabiya_News_60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Alarabiya_News_88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Alarabiya_News_264_Color.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Alarabiya_News_264_Color.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["News"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288283",
+    "id": "35253288283",
+    "titleEn": "Sky News Arabia HD",
+    "number": "53",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/mZGAsVgO6JKL",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/hN__Hw22rOs0",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/1ZA5rdGBN8hf",
+    "isLiveStream": true,
+    "rewindBuffer": 24,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "2.67",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/34953768015",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Skynews_arabia_176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Skynews_arabia_264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Skynews_arabia_60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Skynews_arabia_88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Sky-News-Arabia-HD_264.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Sky-News-Arabia-HD_264.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["News"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288322",
+    "id": "35253288322",
+    "titleEn": "OSN Sports 1 Action HD",
+    "number": "54",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/zlvlFNP_xIbK",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/6_lsDhwYczhw",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/_v_VlxukM75j",
+    "isLiveStream": true,
+    "rewindBuffer": 24,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "8.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/34953768024",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Sports_1_Action_HD_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Sports_1_Action_HD_264x264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Sports_1_Action_HD_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Sports_1_Action_HD_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/OSN_Sports_1_Action_HD_col_264x264.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/OSN_Sports_1_Action_HD_col_264x264.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Sports"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288314",
+    "id": "35253288314",
+    "titleEn": "OSN Sports 2 Action HD",
+    "number": "55",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/4YhWgoG90pUU",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/uwVUf7kdVQU5",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/Xl_A8UDGgGDV",
+    "isLiveStream": true,
+    "rewindBuffer": 24,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "8.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/34953768027",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Sports_2_Action_HD_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Sports_2_Action_HD_264x264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Sports_2_Action_HD_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Sports_2_Action_HD_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/OSN_Sports_2_Action_HD_col_264x264.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/OSN_Sports_2_Action_HD_col_264x264.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Sports"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288295",
+    "id": "35253288295",
+    "titleEn": "OSN Sports 3 HD",
+    "number": "56",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/nT4rP2Af6SH8",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/lrg7pHxHTp7k",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/h5sukc4f1NFD",
+    "isLiveStream": true,
+    "rewindBuffer": 24,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "8.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/34953768108",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Sports_3_HD_176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Sports_3_HD_264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Sports_3_HD_60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Sports_3_HD_88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/OSN-Sports-3-HD_264.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/OSN-Sports-3-HD_264.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Sports"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288296",
+    "id": "35253288296",
+    "titleEn": "OSN Sports 4 HD",
+    "number": "57",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/dLRXw4qr_fZk",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/U1RJfhKbDPK5",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/gXk7M8_cb4Kj",
+    "isLiveStream": true,
+    "rewindBuffer": 24,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "9.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/34953768110",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Sports_4_HD_176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Sports_4_HD_264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Sports_4_HD_60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Sports_4_HD_88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/OSN-Sports-4-HD_264.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/OSN-Sports-4-HD_264.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Sports"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/48684584049",
+    "id": "48684584049",
+    "titleEn": "OSN Sports 5 HD",
+    "number": "58",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/1_T_WsU3dziW",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/d0P7gM_gpj_r",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/yKG1H5EKlEM3",
+    "isLiveStream": true,
+    "rewindBuffer": 24,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "8.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/48683048419",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Sports_5_HD_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Sports_5_HD_264x264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Sports_5_HD_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Sports_5_HD_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/OSN_Sports_5_HD_col_264x264.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/OSN_Sports_5_HD_col_264x264.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Sports"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288324",
+    "id": "35253288324",
+    "titleEn": "WWE Network",
+    "number": "59",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/7G_68ae3d7SL",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/E2HQSQy6RZNY",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/sgVzJXbUOObF",
+    "isLiveStream": true,
+    "rewindBuffer": 24,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "3.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/34953768154",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_WWE_Network_HD_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_WWE_Network_HD_264x264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_WWE_Network_HD_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_WWE_Network_HD_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/OSN_WWE_Network_HD_264x264_coloured.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/OSN_WWE_Network_HD_264x264_coloured.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Sports"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/39359016120",
+    "id": "39359016120",
+    "titleEn": "Saudi Sports 1",
+    "number": "60",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/9j_iRVtwmxpJ",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/U7w0GjJVFiQx",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/dMJzKZhEg52v",
+    "isLiveStream": true,
+    "rewindBuffer": 336,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "3.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/39358504199",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/logos/default/Saudi_Sports_1_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/logos/default/Saudi_Sports_1_264x264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/logos/default/Saudi_Sports_1_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/logos/default/Saudi_Sports_1_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/logos/colored/Saudi_Sports_1_264x264_coloured.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/logos/colored/Saudi_Sports_1_264x264_coloured.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Sports"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/39359016121",
+    "id": "39359016121",
+    "titleEn": "Saudi Sports 2",
+    "number": "61",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/AqYglh48AzZ3",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/hbU1NTrRkFFj",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/5JPP_C9OqtbQ",
+    "isLiveStream": true,
+    "rewindBuffer": 120,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "2.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/39358504200",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Saudi_Sports_2_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Saudi_Sports_2_264x264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Saudi_Sports_2_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Saudi_Sports_2_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Saudi_Sports_2_264x264_colored.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Saudi_Sports_2_264x264_colored.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Sports"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/49028136014",
+    "id": "49028136014",
+    "titleEn": "MBC Pro Sp. 1 HD",
+    "number": "62",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/owwJxrNOKW_k",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/puLlH_8TSFY0",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/5Pf_PdGyOm1t",
+    "isLiveStream": true,
+    "rewindBuffer": 120,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "2.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/49027624421",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/MBC_Pro_Sports_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/MBC_Pro_Sports_264x264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/MBC_Pro_Sports_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/MBC_Pro_Sports_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/MBC_Pro_Sports_col_264x264.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/MBC_Pro_Sports_col_264x264.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Sports"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/70809128129",
+    "id": "70809128129",
+    "titleEn": "Dawri Plus Sports",
+    "number": "63",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/CsVFCV9heH8i",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/szt208_Cb1Lx",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/O_7xX4G1DS3Q",
+    "isLiveStream": true,
+    "rewindBuffer": 4,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "2.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/70809128128",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Dawri_Plus_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Dawri_Plus_264x264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Dawri_Plus_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Dawri_Plus_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Dawri_Plus_col_264x264.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Dawri_Plus_col_264x264.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Sports"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288319",
+    "id": "35253288319",
+    "titleEn": "Disney Channel HD",
+    "number": "64",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/9bW170pA2TN2",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/bQ17LGzZCoc5",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/hOCL6Mg7iIdL",
+    "isLiveStream": true,
+    "rewindBuffer": 24,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "2.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/34953768148",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/DisneyChannel_HD_176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/DisneyChannel_HD_264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/DisneyChannel_HD_60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/DisneyChannel_HD_88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/DisneyChannel_HD_264.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/DisneyChannel_HD_264.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Kids"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288315",
+    "id": "35253288315",
+    "titleEn": "Nickelodeon HD",
+    "number": "65",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/3pTQ3PEPea6r",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/7OG05BWwV0tW",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/uBMmQ_9pJBxt",
+    "isLiveStream": true,
+    "rewindBuffer": 24,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "1.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/34953768142",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Nickelodeon_HD_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Nickelodeon_HD_264x264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Nickelodeon_HD_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Nickelodeon_HD_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Nickelodeon_HD_264x264_coloured.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Nickelodeon_HD_264x264_coloured.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Kids"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/48684584050",
+    "id": "48684584050",
+    "titleEn": "OSN Kid Zone",
+    "number": "66",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/a16E0_ILNfF2",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/cBEMAv6GCKHD",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/mHLDrkQeX8X9",
+    "isLiveStream": true,
+    "rewindBuffer": 24,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "1.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/48683048420",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Kid_Zone_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Kid_Zone_264x264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Kid_Zone_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/OSN_Kid_Zone_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/OSN_Kid_Zone_col_264x264.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/OSN_Kid_Zone_col_264x264.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Kids"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288305",
+    "id": "35253288305",
+    "titleEn": "Disney XD",
+    "number": "67",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/167qJ2CTXFEx",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/E0wNK3oJCNxg",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/N0tobEInRVGG",
+    "isLiveStream": true,
+    "rewindBuffer": 24,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "2.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/34953768128",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Disney_XD_176X176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Disney_XD_264X264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Disney_XD_80X60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Disney_XD_88X88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Disney_XD_264x264_coloured.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Disney_XD_264x264_coloured.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Kids"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288271",
+    "id": "35253288271",
+    "titleEn": "Disney Junior",
+    "number": "68",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/r_oQl7ngtiVt",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/QH4Z9d3yiC1o",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/u4OFJCU4VKyy",
+    "isLiveStream": true,
+    "rewindBuffer": 24,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "1.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/34953768068",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Disney_Junior_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Disney_Junior_264X264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Disney_Junior_80X60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Disney_Junior_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Disney_Junior_264x264_coloured.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Disney_Junior_264x264_coloured.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Kids"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288316",
+    "id": "35253288316",
+    "titleEn": "Nick Jr.",
+    "number": "69",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/klkIfSJmd_Wh",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/RQsMKx5efg8c",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/IbzGR64OJCDq",
+    "isLiveStream": true,
+    "rewindBuffer": 24,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "1.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/34953768144",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Nick_Jr_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Nick_Jr_264x264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Nick_Jr_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Nick_Jr_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Nick_Jr_264x264_coloured.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Nick_Jr_264x264_coloured.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Kids"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/48684584051",
+    "id": "48684584051",
+    "titleEn": "NickToons",
+    "number": "70",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/2y4j4LzHqLRd",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/_wUGNhEPm0eu",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/M_OTd0TBzxkn",
+    "isLiveStream": true,
+    "rewindBuffer": 24,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "1.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/48683048421",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Nicktoons_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Nicktoons_264x264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Nicktoons_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Nicktoons_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Nicktoons_col_264x264.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Nicktoons_col_264x264.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Kids"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288253",
+    "id": "35253288253",
+    "titleEn": "MBC 3",
+    "number": "71",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/rJ5R9_itZUzy",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/mBr9Cqqus_Ez",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/7KtCx_M0Xyot",
+    "isLiveStream": true,
+    "rewindBuffer": 4,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "4.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/34953768038",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/MBC3_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/MBC3_264X264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/MBC3_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/MBC3_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/MBC3_264x264_coloured.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/MBC3_264x264_coloured.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Kids"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/36220968042",
+    "id": "36220968042",
+    "titleEn": "Spacetoon",
+    "number": "72",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/pEoiv3yDrZKi",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/_tQ33PXqDCca",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/YVg3nFQy6Y55",
+    "isLiveStream": true,
+    "rewindBuffer": 168,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "2.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/36220456302",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Spacetoon_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Spacetoon_176x176.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Spacetoon_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Spacetoon_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Spacetoon_264x264_coloured.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Spacetoon_264x264_coloured.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Kids"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/45778472354",
+    "id": "45778472354",
+    "titleEn": "Baby TV",
+    "number": "73",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/pzP2Al4vUqsm",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/LihPdKNfNTSf",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/iN96NNrS48YF",
+    "isLiveStream": true,
+    "rewindBuffer": 24,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "1.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/45778472353",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Baby_TV_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Baby_TV_264x264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Baby_TV_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Baby_TV_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Baby_TV_264x264_color.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Baby_TV_264x264_color.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Kids"]
+  },
+  {
+    "isFav": null,
+    "channelId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Channel/35253288260",
+    "id": "35253288260",
+    "titleEn": "Wanasah",
+    "number": "74",
+    "liveStreamUrl": "http://link.theplatform.eu/s/HLFsfC/jVHaVHQr9NTB",
+    "catchUpUrl": "http://link.theplatform.eu/s/HLFsfC/49pd8pfUj5MZ",
+    "startOverURL": "http://link.theplatform.eu/s/HLFsfC/sjSAaEVUTzWh",
+    "isLiveStream": true,
+    "rewindBuffer": 168,
+    "listingBuffer": 48,
+    "forwardBuffer": "12",
+    "startOverBuffer": "6.0",
+    "stationId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Station/34953768050",
+    "imageList": [
+      {
+        "id": "176x176",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Wanasa_176x176.png",
+        "width": 176,
+        "height": 176
+      },
+      {
+        "id": "264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Wanasa_264x264.png",
+        "width": 264,
+        "height": 264
+      },
+      {
+        "id": "80x60",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Wanasa_80x60.png",
+        "width": 80,
+        "height": 60
+      },
+      {
+        "id": "88x88",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/default/Wanasa_88x88.png",
+        "width": 80,
+        "height": 88
+      },
+      {
+        "id": "promo",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Wanasa_264x264_coloured.png",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "colour_264x264",
+        "url": "http://s3-eu-west-1.amazonaws.com/rockettv.media.images/popcorn/images/channels/v3/logos/colored/Wanasa_264x264_coloured.png",
+        "width": 264,
+        "height": 264
+      }
+    ],
+    "categoryList": ["Music"]
+  }
+]
