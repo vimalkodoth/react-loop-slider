@@ -196,6 +196,37 @@ const List = data => {
     setSlidePos(-scrollWidth);
   };
 
+  const ChannelItem = React.forwardRef((props, ref) => {
+    const { item, index: key } = props;
+    return (
+      <li
+        key={`${item.channelId}_${key}`}
+        ref={ref}
+        style={{
+          display: "flex",
+          flex: 1,
+          alignItems: "center",
+          justifyContent: "center",
+          listStyle: "none",
+          width: "100px",
+          height: "50px",
+          backgroundColor: "yellow",
+          margin: "5px",
+          cursor: "pointer",
+          ...style
+        }}
+        onClick={e => onClicked(e, item, key)}
+      >
+        {item.number}
+        {/* <img
+          alt=""
+          src={item.imageList[1].url}
+          style={{ width: "100%" }}
+        /> */}
+      </li>
+    );
+  });
+
   return (
     <div>
       <div style={{ height: "100px" }} className={`wrapper`} ref={containerRef}>
@@ -203,89 +234,25 @@ const List = data => {
           {rendered.map((item, key) => {
             if (key === rendered.length - 1) {
               return (
-                <li
-                  key={`${item.channelId}_${key}`}
+                <ChannelItem
                   ref={lastElementRef}
-                  style={{
-                    display: "flex",
-                    flex: 1,
-                    alignItems: "center",
-                    justifyContent: "center",
-                    listStyle: "none",
-                    width: "100px",
-                    height: "50px",
-                    backgroundColor: "yellow",
-                    margin: "5px",
-                    cursor: "pointer",
-                    ...style
-                  }}
-                  onClick={e => onClicked(e, item, key)}
-                >
-                  {item.number}
-                  {/* <img
-                    alt=""
-                    src={item.imageList[1].url}
-                    style={{ width: "100%" }}
-                  /> */}
-                </li>
+                  item={item}
+                  key={key}
+                  index={key}
+                />
               );
             }
             if (key === 0) {
               return (
-                <li
-                  key={`${item.channelId}_${key}`}
-                  id="first"
+                <ChannelItem
                   ref={firstElementRef}
-                  style={{
-                    display: "flex",
-                    flex: 1,
-                    alignItems: "center",
-                    justifyContent: "center",
-                    listStyle: "none",
-                    width: "100px",
-                    height: "50px",
-                    backgroundColor: "yellow",
-                    margin: "5px",
-                    cursor: "pointer",
-                    ...style
-                  }}
-                  onClick={e => onClicked(e, item, key)}
-                >
-                  {item.number}
-                  {/* <img
-                    alt=""
-                    src={item.imageList[1].url}
-                    style={{ width: "100%" }}
-                  /> */}
-                </li>
+                  item={item}
+                  key={key}
+                  index={key}
+                />
               );
             }
-            return (
-              <li
-                key={`${item.channelId}_${key}`}
-                style={{
-                  display: "flex",
-                  flex: 1,
-                  alignItems: "center",
-                  justifyContent: "center",
-                  listStyle: "none",
-                  width: "100px",
-                  height: "50px",
-                  backgroundColor: "yellow",
-                  margin: "5px",
-                  cursor: "pointer",
-                  ...style
-                }}
-                onClick={e => onClicked(e, item, key)}
-              >
-                {item.number}
-                {/* <img
-                  alt=""
-                  src={item.imageList[1].url}
-                  style={{ width: "100%" }}
-                /> */}
-              </li>
-            );
+            return <ChannelItem item={item} key={key} index={key} />;
           })}
         </ul>
       </div>
