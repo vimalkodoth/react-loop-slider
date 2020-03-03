@@ -77,7 +77,7 @@ const List = data => {
   useEffect(() => {
     setObsOptions({
       rootMargin: "0px",
-      threshold: 1.0
+      threshold: 0.9
     });
   }, []);
 
@@ -97,10 +97,10 @@ const List = data => {
 
   const firstElementRef = useCallback(node => {
     if (node) {
+      console.log(node);
       if (leftObserver.current) leftObserver.current.disconnect();
       leftObserver.current = new IntersectionObserver(entries => {
         if (entries[0].isIntersecting) {
-          console.log("beginning;");
           setEndReached(true);
           onLeftEndView();
         }
