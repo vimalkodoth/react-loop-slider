@@ -1,4 +1,4 @@
 # react-loop-slider
 React Infinite Slider
-![GitHub Logo](/images/slider.gif)
+![Slider](/images/slider.gif)
 Format: ![Alt Text](url)
