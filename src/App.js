@@ -7,7 +7,7 @@ import React, {
 } from "react";
 import "./styles.css";
 import data from "./data.json";
-import { useScroll } from "react-use-gesture";
+import { useScroll, useDrag } from "react-use-gesture";
 import { animated, useSpring } from "react-spring";
 import { Transition } from "react-transition-group";
 
@@ -100,6 +100,7 @@ const List = data => {
       if (leftObserver.current) leftObserver.current.disconnect();
       leftObserver.current = new IntersectionObserver(entries => {
         if (entries[0].isIntersecting) {
+          console.log("beginning;");
           setEndReached(true);
           onLeftEndView();
         }
@@ -196,6 +197,15 @@ const List = data => {
     setSlidePos(-scrollWidth);
   };
 
+  const [{ x, y }, setXY] = useSpring(() => ({ x: 0, y: 0 }));
+
+  const bind = useDrag(({ down, movement: [mx, my] }) => {
+    setXY({ x: down ? mx : 0, y: down ? my : 0 });
+    console.log(down);
+    console.log(x);
+    console.log(y);
+  });
+
   const ChannelItem = React.forwardRef((props, ref) => {
     const { item, index: key } = props;
     return (
@@ -208,8 +218,7 @@ const List = data => {
           alignItems: "center",
           justifyContent: "center",
           listStyle: "none",
-          width: "100px",
-          height: "50px",
+          height: "180px",
           backgroundColor: "yellow",
           margin: "5px",
           cursor: "pointer",
@@ -227,10 +236,20 @@ const List = data => {
     );
   });
 
+  const onWheelList = delta => {
+    requestAnimationFrame(() => {
+      delta > 0 ? scrollLeft() : scrollRight();
+    });
+  };
+
   return (
     <div>
-      <div style={{ height: "100px" }} className={`wrapper`} ref={containerRef}>
-        <ul style={slideStyles}>
+      <div
+        style={{ height: "180px", marginBottom: "20px" }}
+        className={`wrapper`}
+        ref={containerRef}
+      >
+        <ul style={slideStyles} onWheel={e => onWheelList(e.deltaY)}>
           {rendered.map((item, key) => {
             if (key === rendered.length - 1) {
               return (
